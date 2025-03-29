@@ -25,7 +25,7 @@ The project aims to answer critical business and operational questions, helping 
 - **Ride Distance Distribution Per Day**: A histogram/scatter plot visualizing ride distance variations.
 
 
-! [Revenue by Payment Method](https://github.com/ankur-jat0009/OLA-Vehicle-Data-Analysis/blob/main/Dashboard%20Photo/3.png)
+![Revenue by Payment Method](https://github.com/ankur-jat0009/OLA-Vehicle-Data-Analysis/blob/main/Dashboard%20Photo/3.png)
 
 ### **4. Cancellation Analysis**
 - **Cancelled Rides Reasons (Customer)**: A bar chart showcasing common reasons for cancellations by customers.
