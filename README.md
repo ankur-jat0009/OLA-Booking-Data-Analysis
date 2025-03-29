@@ -60,5 +60,10 @@ The project aims to answer critical business and operational questions, helping 
 - Find the maximum and minimum driver ratings for Prime Sedan bookings.
 - Find the average customer rating per vehicle type.
 
-
-
+## How to Use
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ankur-jat0009/OLA-Vehicle-Data-Analysis.git
+   ```
+2. Load the SQL queries into your database to fetch insights.
+3. Open the Power BI dashboard file to explore visual insights.
